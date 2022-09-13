@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387289094786",
+    "project_id": "worktoday-7a517",
+    "storage_bucket": "worktoday-7a517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387289094786:android:4cb7fc0959da9b3d54729b",
+        "android_client_info": {
+          "package_name": "com.example.work_today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387289094786-e5cdk98bmmisrf4qrhm38n5oi14spre0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmh2AHZV8J_2DudnJIydy-a-NBGcY_28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387289094786-e5cdk98bmmisrf4qrhm38n5oi14spre0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
