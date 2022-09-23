@@ -1,5 +1,5 @@
 # Project Title
-# Instant Worker App
+# Work-Today App
 
 - We envision creating better and empowered livelihood for  daily wagers all across India.
 - Through our innovation and dedication we are striving towards creating an organized infrastructure and accountable days of employment for these daily wagers .
