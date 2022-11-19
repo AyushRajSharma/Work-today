@@ -62,8 +62,7 @@
 
 ### 5. Screen that shows the list of jobs that the user can select.
 #### Light Mode  and  Dark Mode
-![8](https://user-images.githubusercontent.com/58889205/190015465-87d94a1e-35e3-4810-9563-e75a69e405f2.png)
-<img src="https://user-images.githubusercontent.com/58889205/190013111-7c5cf8e4-95d9-4b10-8968-b6f28e9b66cc.png" width="280" height = 630>
+![8](https://user-images.githubusercontent.com/58889205/190015465-87d94a1e-35e3-4810-9563-e75a69e405f2.png)![img](https://user-images.githubusercontent.com/58889205/202874269-dc0453a2-c85c-4f37-b183-240f8511c4d6.png)
 
 
 
